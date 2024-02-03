@@ -1,2 +1,1 @@
-Learning how to build basic recipe website
-Added 3 Recipes 
+Learning how to build basic recipe website by adding 3 Recipes 
