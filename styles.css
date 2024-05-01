@@ -1,5 +1,27 @@
-#Title{
+*{
+    background-color: beige;
+}
+
+h1{
     font-size: 40px;
     background-color: aquamarine;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe{
+    font-size: 20px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    background-color: beige;
+}
+
+ul{
+    background-color: beige;
+}
+
+ol{
+    background-color: beige;
 }
