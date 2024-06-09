@@ -4,14 +4,21 @@
 
 h1{
     font-size: 40px;
-    background-color: aquamarine;
+    background-color: aqua;
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    font-size: 40px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 15px;
 }
 
 .recipe{
     font-size: 20px;
-    background-color: aqua;
+    background-color: aquamarine;
     font-family: 'Courier New', Courier, monospace;
+    padding: 8px;
 }
 
 p{
